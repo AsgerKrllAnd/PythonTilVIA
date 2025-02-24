@@ -3,3 +3,6 @@ sectionproperties
 matplotlib
 numpy
 pandas
+forallpeople
+handcalcs
+ipykernel
